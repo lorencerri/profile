@@ -6,7 +6,7 @@
 
 
 **Plexi Development** <br>
-*Found of Plexi Development*
+*Founder of Plexi Development*
 > [Discord](https://discord.gg/plexidev) <br>
 > [YouTube](https://youtube.com/c/TrueXPixels)
 

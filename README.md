@@ -1,11 +1,12 @@
 ## Loren Cerri
 
-*lorencerri@gmail.com*
+**Contact**
+> E-Mail: *lorencerri@gmail.com* <br>
+> Discord: *TrueXPixels#5083*
 
 **Social Media**
 > [Twitter](https://twitter.com/truexpixels) <br>
-> [NPM Page](https://www.npmjs.com/~truexpixels)
-
+> [NPM Page](https://www.npmjs.com/~truexpixels) <br>
 
 **Plexi Development** <br>
 *⤷ Founder of Plexi Development*

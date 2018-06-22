@@ -1,5 +1,7 @@
 ## Loren Cerri
 
+*lorencerri@gmail.com*
+
 **Social Media**
 > [Twitter](https://twitter.com/truexpixels) <br>
 > [NPM Page](https://www.npmjs.com/~truexpixels)

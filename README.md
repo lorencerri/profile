@@ -4,13 +4,13 @@
 > E-Mail: *lorencerri@gmail.com* <br>
 > Discord: *TrueXPixels#5083*
 
-***
+<br><br>
 
 **Social Media**
 > [Twitter](https://twitter.com/truexpixels) <br>
 > [NPM Page](https://www.npmjs.com/~truexpixels) <br>
 
-***
+<br><br>
 
 **Plexi Development** <br>
 *⤷ Founder of Plexi Development*

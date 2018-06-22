@@ -42,6 +42,7 @@ Title | Description | Language(s)
 ---
 
 **Rust Applications**
+
 Title | Description | Language(s)
 --- | --- | ---
 [Odd or Even](https://github.com/TrueXPixels/odd_or_even) | A simple rust application created for learning purpouses | Rust

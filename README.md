@@ -6,7 +6,7 @@
 
 
 **Plexi Development** <br>
-*Founder of Plexi Development*
+*⤷ Founder of Plexi Development*
 > [Discord](https://discord.gg/plexidev) — *2100 Members* <br>
 > [YouTube](https://youtube.com/c/TrueXPixels) — *2000 Subscribers* <br>
 > [Twitter](https://twitter.com/plexidev) — *119 Followers*

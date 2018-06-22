@@ -1,14 +1,15 @@
 ## Loren Cerri
 
 **Social Media**
-> [YouTube](https://youtube.com/c/TrueXPixels) — *2000 Subscribers* <br>
-> [Twitter](https://twitter.com/truexpixels) — *346 Followers*
+> [Twitter](https://twitter.com/truexpixels) <br>
+> [NPM Page](https://www.npmjs.com/~truexpixels)
 
 
 **Plexi Development** <br>
 *Founder of Plexi Development*
 > [Discord](https://discord.gg/plexidev) — *2100 Members* <br>
-> [YouTube](https://youtube.com/c/TrueXPixels) — *2000 Subscribers*
+> [YouTube](https://youtube.com/c/TrueXPixels) — *2000 Subscribers* <br>
+> [Twitter](https://twitter.com/plexidev) — *119 Followers*
 
 ## GitHub Repositories
 

@@ -30,7 +30,7 @@ Title | Description | Language(s)
 --- | --- | ---
 [High or Low](https://github.com/TrueXPixels/High-or-Low) | A simple card game for the iOS app store | Swift
 
----
+<br>
 
 **Development Tools**
 
@@ -41,7 +41,7 @@ Title | Description | Language(s)
 [quick.hook](https://github.com/TrueXPixels/quick.hook) | This package creates an easy way to send webhooks, as well as providing fallbacks if the client does not have the proper permissions | JavaScript (Node.js)
 [quick.time](https://www.npmjs.com/package/quick.time) | This package allows user input to be turned into milliseconds | JavaScript (Node.js)
 
----
+<br>
 
 **Discord Bots**
 
@@ -51,7 +51,7 @@ Title | Description | Language(s)
 [Guardian](https://github.com/TrueXPixels/Guardian) | A fully autonomous, Discord server protection bot | JavaScript (Node.js)
 [Rust Bot](https://github.com/TrueXPixels/Rust_Bot) | A simple Discord bot written in Rust | Rust
 
----
+<br>
 
 **Rust Applications**
 

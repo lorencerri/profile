@@ -28,7 +28,7 @@
 
 Title | Description | Language(s)
 :---: | :---: | :---:
-[High or Low](https://github.com/TrueXPixels/High-or-Low) | A simple card game for the iOS app store | Swift
+[High or Low](https://github.com/TrueXPixels/High-or-Low) | A simple card game for the iOS app store | `Swift`
 
 <br>
 
@@ -36,10 +36,10 @@ Title | Description | Language(s)
 
 Title | Description | Language(s)
 :---: | :---: | :---:
-[quick.db](https://github.com/TrueXPixels/quick.db) | An easy, open-sourced, Node.js better-sqlite3 wrapper designed for beginners getting into development | JavaScript (Node.js), HTML 
-[quick.log](https://github.com/TrueXPixels/quick.log) | This package provides a quick, easy to use, logging solution viewable from a browser | HTML, JavaScript (Node.js)
-[quick.hook](https://github.com/TrueXPixels/quick.hook) | This package creates an easy way to send webhooks, as well as providing fallbacks if the client does not have the proper permissions | JavaScript (Node.js)
-[quick.time](https://www.npmjs.com/package/quick.time) | This package allows user input to be turned into milliseconds | JavaScript (Node.js)
+[quick.db](https://github.com/TrueXPixels/quick.db) | An easy, open-sourced, Node.js better-sqlite3 wrapper designed for beginners getting into development | `JavaScript (Node.js), HTML`
+[quick.log](https://github.com/TrueXPixels/quick.log) | This package provides a quick, easy to use, logging solution viewable from a browser | `HTML, JavaScript (Node.js)`
+[quick.hook](https://github.com/TrueXPixels/quick.hook) | This package creates an easy way to send webhooks, as well as providing fallbacks if the client does not have the proper permissions | `JavaScript (Node.js)`
+[quick.time](https://www.npmjs.com/package/quick.time) | This package allows user input to be turned into milliseconds | `JavaScript (Node.js)`
 
 <br>
 
@@ -48,8 +48,8 @@ Title | Description | Language(s)
 Title | Description | Language(s)
 :---: | :---: | :---:
 [Community Channels](https://github.com/TrueXPixels/Community-Channels) | This program allows you to create private & optional channels, without the need to give any users permissions | `JavaScript (Node.js)`
-[Guardian](https://github.com/TrueXPixels/Guardian) | A fully autonomous, Discord server protection bot | JavaScript (Node.js)
-[Rust Bot](https://github.com/TrueXPixels/Rust_Bot) | A simple Discord bot written in Rust | Rust
+[Guardian](https://github.com/TrueXPixels/Guardian) | A fully autonomous, Discord server protection bot | `JavaScript (Node.js)`
+[Rust Bot](https://github.com/TrueXPixels/Rust_Bot) | A simple Discord bot written in Rust | `Rust`
 
 <br>
 
@@ -57,8 +57,8 @@ Title | Description | Language(s)
 
 Title | Description | Language(s)
 :---: | :---: | :---:
-[Odd or Even](https://github.com/TrueXPixels/odd_or_even) | A simple rust application created for learning purpouses | Rust
-[Character Input](https://github.com/TrueXPixels/character_input) | A simple rust application created for learning purpouses | Rust
+[Odd or Even](https://github.com/TrueXPixels/odd_or_even) | A simple rust application created for learning purpouses | `Rust`
+[Character Input](https://github.com/TrueXPixels/character_input) | A simple rust application created for learning purpouses | `Rust`
 
 <br>
 
@@ -66,9 +66,9 @@ Title | Description | Language(s)
 
 URL | Source | Description | Language(s)
 :---: | :---: | :---: | :---:
-[sourcecode.glitch.me](https://sourcecode.glitch.me/) | [Code](https://glitch.com/edit/#!/sourcecode) | A public place for users to share, rate, and view source code | JavaScript, Node.js, HTML, CSS
-[plexicalculator.glitch.me](https://plexicalculator.glitch.me/) | [Code](https://glitch.com/edit/#!/plexicalculator) | A simple calculator that features a history system | JavaScript, HTML, CSS
-[cargolog.glitch.me](https://cargolog.glitch.me/) | [Code](https://glitch.com/edit/#!/cargolog) | This application features a full room system, for real-time collaborative cargo transport logging | JavaScript, Node.js, HTML, CSS
+[sourcecode.glitch.me](https://sourcecode.glitch.me/) | [Code](https://glitch.com/edit/#!/sourcecode) | A public place for users to share, rate, and view source code | `JavaScript, Node.js, HTML, CSS`
+[plexicalculator.glitch.me](https://plexicalculator.glitch.me/) | [Code](https://glitch.com/edit/#!/plexicalculator) | A simple calculator that features a history system | `JavaScript, HTML, CSS`
+[cargolog.glitch.me](https://cargolog.glitch.me/) | [Code](https://glitch.com/edit/#!/cargolog) | This application features a full room system, for real-time collaborative cargo transport logging | `JavaScript, Node.js, HTML, CSS`
 
 <br>
 

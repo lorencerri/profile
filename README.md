@@ -68,7 +68,7 @@ URL | Source | Description | Language(s)
 :---: | :---: | --- | ---
 [sourcecode.glitch.me](https://sourcecode.glitch.me/) | [Code](https://glitch.com/edit/#!/sourcecode) | A public place for users to share, rate, and view source code | JavaScript, Node.js, HTML, CSS
 [plexicalculator.glitch.me](https://plexicalculator.glitch.me/) | [Code](https://glitch.com/edit/#!/plexicalculator) | A simple calculator that features a history system | JavaScript, HTML, CSS
-[cargolog.glitch.me](https://cargolog.glitch.me/) | [Code](https://glitch.com/edit/#!/cargolog) | This application features a full room system, for collaborative cargo transport logging | JavaScript, Node.js, HTML, CSS
+[cargolog.glitch.me](https://cargolog.glitch.me/) | [Code](https://glitch.com/edit/#!/cargolog) | This application features a full room system, for real-time collaborative cargo transport logging | JavaScript, Node.js, HTML, CSS
 
 <br>
 

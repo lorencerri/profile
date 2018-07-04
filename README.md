@@ -24,6 +24,7 @@
 
 **General Statistics**
 > [CoderStats](https://coderstats.net/github/#TrueXPixels) — *GitHub* <br>
+> [Git Awards](http://git-awards.com/users/truexpixels) — *GitHub* <br>
 > [SocialBlade](https://socialblade.com/youtube/user/truexpixels) — *YouTube*
 
 <br>

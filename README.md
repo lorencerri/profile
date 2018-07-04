@@ -22,6 +22,11 @@
 
 <br>
 
+**General Statistics**
+> [CoderStats](https://coderstats.net/github/#TrueXPixels)
+
+<br>
+
 ## Projects & GitHub Repositories
 
 **iOS Applications**

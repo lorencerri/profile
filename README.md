@@ -29,7 +29,7 @@
 
 <br>
 
-**Known Languages** <br>
+**Languages** <br>
 > JavaScript<sup> + Node.JS</sup> <br>
 > HTML<sup> + CSS</sup> <br>
 > Swift<sup> + Xcode</sup> <br>

@@ -1,4 +1,4 @@
-## Loren Cerri <sup>(TrueXPixels)</sup>
+## Loren Cerri  —  (TrueXPixels)
 
 <br>
 

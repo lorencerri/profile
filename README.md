@@ -59,3 +59,13 @@ Title | Description | Language(s)
 --- | --- | ---
 [Odd or Even](https://github.com/TrueXPixels/odd_or_even) | A simple rust application created for learning purpouses | Rust
 [Character Input](https://github.com/TrueXPixels/character_input) | A simple rust application created for learning purpouses | Rust
+
+<br>
+
+**Project Euler Solutions** <br>
+*These are my solutions for [Project Euler](https://projecteuler.net/), and by no means are the most efficient answers.*
+  
+\# | Title | JavaScript | Ruby | Swift | Rust
+:---: | :---: | :---: | :---: | :---: | :---:
+1 | Multiples of 3 and 5 | [JavaScript](https://repl.it/@lorencerri/project-euler-1) | [Ruby](https://repl.it/@lorencerri/project-euler-1ruby) | [Swift](https://repl.it/@lorencerri/project-euler-1swift) | [Rust](https://repl.it/@lorencerri/project-euler-1rust)
+2 | Even Fibonacci numbers | [JavaScript](https://repl.it/@lorencerri/project-euler-2) | ![](https://cdn0.iconfinder.com/data/icons/octicons/1024/x-24.png) | ![](https://cdn0.iconfinder.com/data/icons/octicons/1024/x-24.png) | ![](https://cdn0.iconfinder.com/data/icons/octicons/1024/x-24.png)

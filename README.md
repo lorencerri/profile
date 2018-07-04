@@ -24,7 +24,7 @@
 
 ## Projects & GitHub Repositories
 
-**iOS Apps**
+**iOS Applications**
 
 Title | Description | Language(s)
 :---: | :---: | :---:

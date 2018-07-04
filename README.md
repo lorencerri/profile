@@ -47,7 +47,7 @@ Title | Description | Language(s)
 
 Title | Description | Language(s)
 :---: | :---: | :---:
-[Community Channels](https://github.com/TrueXPixels/Community-Channels) | This program allows you to create private & optional channels, without the need to give any users permissions | JavaScript (Node.js)
+[Community Channels](https://github.com/TrueXPixels/Community-Channels) | This program allows you to create private & optional channels, without the need to give any users permissions | `JavaScript (Node.js)`
 [Guardian](https://github.com/TrueXPixels/Guardian) | A fully autonomous, Discord server protection bot | JavaScript (Node.js)
 [Rust Bot](https://github.com/TrueXPixels/Rust_Bot) | A simple Discord bot written in Rust | Rust
 

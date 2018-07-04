@@ -30,9 +30,9 @@
 <br>
 
 **Known Languages** <br>
-> JavaScript<sup>+ Node.JS</sup> <br>
-> HTML<sup>+ CSS</sup> <br>
-> Swift<sup>+ Xcode</sup> <br>
+> JavaScript<sup> + Node.JS</sup> <br>
+> HTML<sup> + CSS</sup> <br>
+> Swift<sup> + Xcode</sup> <br>
 > Ruby <br>
 > Java <br>
 > Rust <br>

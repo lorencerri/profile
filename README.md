@@ -23,7 +23,8 @@
 <br>
 
 **General Statistics**
-> [CoderStats](https://coderstats.net/github/#TrueXPixels)
+> [CoderStats](https://coderstats.net/github/#TrueXPixels) — *GitHub* <br>
+> [SocialBlade](https://socialblade.com/youtube/user/truexpixels) — *YouTube*
 
 <br>
 

@@ -45,6 +45,7 @@
 
 Title | Description | Language(s)
 :---: | :---: | :---:
+[Dog Age Calculator](https://itunes.apple.com/us/app/dog-age-calculator/id1432254594?mt=8) | Calculate the age of your dog from human years to dog years | `PhoneGap (HTML, JavaScript, CSS)`
 [High or Low](https://github.com/TrueXPixels/High-or-Low) | A simple card game for the iOS app store | `Swift`
 
 <br>

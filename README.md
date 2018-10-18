@@ -101,7 +101,7 @@ URL | Source | Description | Game/Type | Language(s)
 **Project Euler Solutions** <br>
 *These are my solutions for [Project Euler](https://projecteuler.net/), and by no means are the most efficient answers.*
   
-\# | Title | JavaScript | Ruby | Swift | Rust
-:---: | :---: | :---: | :---: | :---: | :---:
-1 | Multiples of 3 and 5 | [JavaScript](https://repl.it/@lorencerri/project-euler-1) | [Ruby](https://repl.it/@lorencerri/project-euler-1ruby) | [Swift](https://repl.it/@lorencerri/project-euler-1swift) | [Rust](https://repl.it/@lorencerri/project-euler-1rust)
+\# | Title | JavaScript | Ruby | Swift | Rust | Java
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+1 | Multiples of 3 and 5 | [JavaScript](https://repl.it/@lorencerri/project-euler-1) | [Ruby](https://repl.it/@lorencerri/project-euler-1ruby) | [Swift](https://repl.it/@lorencerri/project-euler-1swift) | [Rust](https://repl.it/@lorencerri/project-euler-1rust) | [Java](https://repl.it/@lorencerri/project-euler-1java)
 2 | Even Fibonacci numbers | [JavaScript](https://repl.it/@lorencerri/project-euler-2) | ![](https://cdn0.iconfinder.com/data/icons/octicons/1024/x-24.png) | ![](https://cdn0.iconfinder.com/data/icons/octicons/1024/x-24.png) | ![](https://cdn0.iconfinder.com/data/icons/octicons/1024/x-24.png)

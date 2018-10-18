@@ -5,13 +5,13 @@
 **Contact**
 > E-Mail: *lorencerri@gmail.com* <br>
 > Discord: *TrueXPixels#5083* <br>
-> [Personal Discord Server](https://discord.gg/EZQs37J)
 
 <br>
 
 **Social Media**
 > [Twitter](https://twitter.com/truexpixels) <br>
 > [NPM Page](https://www.npmjs.com/~truexpixels) <br>
+> [Personal Discord](https://discord.gg/EZQs37J)
 
 <br>
 

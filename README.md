@@ -75,8 +75,8 @@ Title | Description | Language(s)
 
 Title | Description | Language(s)
 :---: | :---: | :---:
-[Odd or Even](https://github.com/TrueXPixels/odd_or_even) | A simple rust application created for learning purpouses | `Rust`
-[Character Input](https://github.com/TrueXPixels/character_input) | A simple rust application created for learning purpouses | `Rust`
+[Odd or Even](https://github.com/TrueXPixels/odd_or_even) | A simple rust application created for learning purposes | `Rust`
+[Character Input](https://github.com/TrueXPixels/character_input) | A simple rust application created for learning purposes | `Rust`
 
 <br>
 

@@ -5,6 +5,7 @@
 **Contact**
 > E-Mail: *lorencerri@gmail.com* <br>
 > Discord: *TrueXPixels#5083*
+> [Personal Discord Server](https://discord.gg/EZQs37J)
 
 <br>
 

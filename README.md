@@ -90,6 +90,12 @@ URL | Source | Description | Language(s)
 
 <br>
 
+**Game Modifications**
+
+URL | Source | Description | Language(s)
+:---: | :---: | :---: | :---:
+[https://www.spigotmc.org/resources/morejoinmessages.61654](https://www.spigotmc.org/resources/morejoinmessages.61654) | [Code](https://github.com/TrueXPixels/MoreJoinMessages) | Discord inspired join messages, in Minecraft. | `Java`
+
 **Project Euler Solutions** <br>
 *These are my solutions for [Project Euler](https://projecteuler.net/), and by no means are the most efficient answers.*
   

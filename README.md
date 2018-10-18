@@ -15,10 +15,11 @@
 <br>
 
 **Plexi Development** <br>
-*⤷ Founder of Plexi Development*
-> [Discord](https://discord.gg/plexidev) — *3105 Members* <br>
-> [YouTube](https://youtube.com/c/TrueXPixels) — *2517 Subscribers* <br>
-> [Twitter](https://twitter.com/plexidev) — *112 Followers*
+*⤷ Founder of Plexi Development (exiting early 2019)*
+> [Discord](https://discord.gg/plexidev) — *3606 Members* <br>
+> [YouTube](https://youtube.com/c/TrueXPixels) — *2804 Subscribers/444k Views* <br>
+> [Twitter](https://twitter.com/plexidev) — *111 Followers* <br>
+> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2016-10-17&to=2018-10-17) — *75000+ Total Downloads*
 
 <br>
 

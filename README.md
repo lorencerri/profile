@@ -17,9 +17,9 @@
 
 **Plexi Development** <br>
 *⤷ Founder of Plexi Development*
-> [Discord](https://discord.gg/plexidev) — *3788 Members* <br>
-> [YouTube](https://youtube.com/c/TrueXPixels) — *2865 Subscribers / 444k+ Views* <br>
-> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2016-10-17&to=2018-10-17) — *75000+ Total Downloads*
+> [Discord](https://discord.gg/plexidev) — *5000+ Members* <br>
+> [YouTube](https://youtube.com/c/TrueXPixels) — *3k+ Subscribers / 467k+ Views* <br>
+> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *86k+ Total Downloads*
 
 <br>
 
@@ -33,7 +33,7 @@
 **Languages** <br>
 > JavaScript<sup> + Node.JS</sup> <br>
 > HTML<sup> + CSS</sup> <br>
-> Swift<sup> + Xcode</sup> <br>
+> Python <br>
 > Ruby <br>
 > Java <br>
 > Rust <br>

@@ -11,15 +11,15 @@
 **Social Media**
 > [Twitter](https://twitter.com/truexpixels) <br>
 > [NPM Page](https://www.npmjs.com/~truexpixels) <br>
-> [Personal Discord](https://discord.gg/EZQs37J)
+> [Discord](https://discord.gg/plexidev)
 
 <br>
 
 **Plexi Development** <br>
 *⤷ Founder of Plexi Development*
-> [Discord](https://discord.gg/plexidev) — *5k+ Members* <br>
-> [YouTube](https://youtube.com/c/TrueXPixels) — *3k+ Subscribers / 467k+ Views* <br>
-> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *86k+ Total Downloads*
+> [Discord](https://discord.gg/plexidev) — *6.5k+ Members* <br>
+> [YouTube](https://youtube.com/c/TrueXPixels) — *3.5k+ Subscribers / 611k+ Views* <br>
+> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *310k+ Total Downloads*
 
 <br>
 

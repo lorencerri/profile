@@ -3,7 +3,7 @@
 <br>
 
 **Contact**
-> E-Mail: *lorencerri@gmail.com* <br>
+> E-Mail: *loren.cerri@plexidev.org* <br>
 > Discord: *TrueXPixels#5083* <br>
 
 <br>
@@ -17,9 +17,9 @@
 
 **Plexi Development** <br>
 *⤷ Founder of Plexi Development*
-> [Discord](https://discord.gg/plexidev) — *6.5k+ Members* <br>
-> [YouTube](https://youtube.com/c/TrueXPixels) — *3.5k+ Subscribers / 611k+ Views* <br>
-> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *310k+ Total Downloads*
+> [Discord](https://discord.gg/plexidev) — *14.5k+ Members* <br>
+> [YouTube](https://youtube.com/c/TrueXPixels) — *4.5k+ Subscribers / 1m+ Views* <br>
+> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *1.1m+ Total Downloads*
 
 <br>
 

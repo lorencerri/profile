@@ -1,8 +1,6 @@
 ## Loren Cerri
 
-<br>
-
-*loren.cerri@plexidev.org* <br>
+*loren.cerri@plexidev.org*
 
 <br>
 

@@ -4,6 +4,7 @@
 
 **Contact**
 > E-Mail: *loren.cerri@plexidev.org* <br>
+> Twitter DMs
 > Discord: *TrueXPixels#5083* <br>
 
 <br>
@@ -17,16 +18,9 @@
 
 **Plexi Development** <br>
 *⤷ Founder of Plexi Development*
-> [Discord](https://discord.gg/plexidev) — *14.5k+ Members* <br>
-> [YouTube](https://youtube.com/c/TrueXPixels) — *4.5k+ Subscribers / 1m+ Views* <br>
-> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *1.1m+ Total Downloads*
-
-<br>
-
-**General Statistics**
-> [CoderStats](https://coderstats.net/github/#TrueXPixels) — *GitHub* <br>
-> [Git Awards](http://git-awards.com/users/truexpixels) — *GitHub* <br>
-> [SocialBlade](https://socialblade.com/youtube/user/truexpixels) — *YouTube*
+> [Discord](https://discord.gg/plexidev) — *16k+ Members* <br>
+> [YouTube](https://youtube.com/c/TrueXPixels) — *4.6k+ Subscribers / 1.1m+ Views* <br>
+> [Products](https://npm-stat.com/charts.html?package=quick.db&package=quick.hook&package=quick.time&from=2017-10-17) — *1.2m+ Total Downloads*
 
 <br>
 

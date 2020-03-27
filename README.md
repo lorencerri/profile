@@ -2,10 +2,7 @@
 
 <br>
 
-**Contact**
-> E-Mail: *loren.cerri@plexidev.org* <br>
-> Twitter Direct Messages <br>
-> Discord: *TrueXPixels#5083* <br>
+*loren.cerri@plexidev.org* <br>
 
 <br>
 
